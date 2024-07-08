@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kor-test/static/css/main.b8425622.css",
+    "main.js": "/kor-test/static/js/main.9277d9f7.js",
+    "static/js/453.f486cdc5.chunk.js": "/kor-test/static/js/453.f486cdc5.chunk.js",
+    "static/media/Desktop.jpg": "/kor-test/static/media/Desktop.6b24b23f11316dd3fab4.jpg",
+    "static/media/photo4.png": "/kor-test/static/media/photo4.22f9c7875668c3162472.png",
+    "static/media/photo2.png": "/kor-test/static/media/photo2.08982e5f44a0bd167146.png",
+    "static/media/Mobile 320.png": "/kor-test/static/media/Mobile 320.39fcc421bd9cf8cc8465.png",
+    "static/media/photo1.png": "/kor-test/static/media/photo1.338d109ad3ec5e80e236.png",
+    "static/media/photo3.png": "/kor-test/static/media/photo3.aeb54957fd898f9b223b.png",
+    "static/media/app-store-svgrepo-com 1.svg": "/kor-test/static/media/app-store-svgrepo-com 1.9a51cdf4bafcbdc47a2e09bb805cd3a0.svg",
+    "index.html": "/kor-test/index.html",
+    "static/media/google-play-svgrepo-com (1) 1.svg": "/kor-test/static/media/google-play-svgrepo-com (1) 1.e50ab95e27a6a2a4318a657945da28b6.svg",
+    "main.b8425622.css.map": "/kor-test/static/css/main.b8425622.css.map",
+    "main.9277d9f7.js.map": "/kor-test/static/js/main.9277d9f7.js.map",
+    "453.f486cdc5.chunk.js.map": "/kor-test/static/js/453.f486cdc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8425622.css",
+    "static/js/main.9277d9f7.js"
+  ]
+}
